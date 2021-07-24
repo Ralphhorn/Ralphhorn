@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ralphhorn
-- 👀 I’m interested in everything infosec
+- 👀 I’m interested in everything infosec,especially when combined with data science.
 - 🌱 I’m currently learning OSCP
 - 💞️ I’m not looking to collaborate currently.
 -  📫 How to reach me ...
