@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ralphhorn
 - 👀 I’m interested in everything infosec,especially when combined with data science and DFIR.
 - 🌱 I’m currently studying for OSEP/OSED
-- 💞️ I’m not actively looking to collaborate currently.
+- 💞️ I’m not actively looking to collaborate currently, but shooot me a message and I might.
 -  📫 How to reach me ...
 
 <!---
